@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+
 body{
     background-color:rgb(34, 34, 34);
     color: white;
@@ -50,7 +51,9 @@ h1{
 main{
     display: flex;
     flex-direction: row;
-    margin-top: 50px;
+    margin: 50px;
+    
+
 }
 
 h2{
@@ -63,7 +66,7 @@ span{
 }
 p{
     line-height: 20px;
-    max-width: 500px;
+    max-width: 550px;
     text-align: justify;
     
     
@@ -72,7 +75,7 @@ p{
 img{
     position: absolute;
     left: 55%;
-    width: 600px;
+    width: 577px;
 }
 
 form{

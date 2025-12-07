@@ -5,10 +5,16 @@
 
     main{
         flex-direction: column;
+
     }
     h2{
         font-size: 38px;
+        text-align: center;
     }
+  p{
+    max-width: 100%;
+  }
+   
 
 form{
     margin: 0 auto;
@@ -25,6 +31,10 @@ img{
 
 ul{
     text-align: center;
+}
+
+#submit{
+    width: 20%;
 }
     
 }
